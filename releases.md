@@ -1,18 +1,37 @@
 # Release Notes
 
+- [Shopwise 1.0.4](#version_1_0_4)
 - [Shopwise 1.0.3](#version_1_0_3)
 - [Shopwise 1.0.2](#version_1_0_2)
 - [Shopwise 1.0.1](#version_1_0_1)
 - [Shopwise 1.0](#version_1_0)
 
-<a name="version_1_0_2"></a>
-## Shopwise 1.0.2
+<a name="version_1_0_4"></a>
+## Shopwise 1.0.4
+### Oct 23, 2020
+- Fix RLT for error pages.
+- Fix bug wrong quantity in incomplete order recovery.
+- Fix update customer's email from admin panel.
+- Fix bug when activating plugin Ecommerce.
+
+<a name="version_1_0_3"></a>
+## Shopwise 1.0.3
 ### Oct 20, 2020
 - Fix RLT for error pages.
 - Refresh cart table after removing a product from cart.
 - Update icon selection in product category editing page.
 - Add notification when adding product to cart.
 - Add sticky header scroll.
+
+<a name="version_1_0_2"></a>
+## Shopwise 1.0.2
+### Oct 15, 2020
+- Fix RLT for checkout pages.
+- Fix bugs when adding product to cart.
+- Fix 404 not found issue when clicking on the customer's name on the reviews listing page.
+- Add export products, orders to CSV, Excel.
+- Update to Botble CMS 5.9.
+- Remove unused CSS to make it loads faster.
 
 <a name="version_1_0_1"></a>
 ## Shopwise 1.0.1
