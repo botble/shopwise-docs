@@ -10,17 +10,17 @@
 <a name="version_1_1"></a>
 ## Shopwise 1.4
 ### Nov 16, 2020
-- Add "Quick Buy" button.
-- Add shortcode to display all brands and all products.
-- Display product attributes on cart, email.
-- Display error/success message in the cart page.
-- Fix checkout page when customer is logged already.
+- Add the "Quick Buy" button.
+- Add a shortcode to display all brands and all products.
+- Display product attributes on the cart, email.
+- Display error/success message on the cart page.
+- Fix checkout page when the customer has logged already.
 - Fix shipping rules, order detail, store locators.
-- Fix missing order address when creating order from admin.
+- Fix missing order address when creating orders from admin.
 - Fix theme translations: new keys in English doesn't show in other languages.
 - Fix IP in activity logs, allow IP v6.
-- Optimize queries on menu & widgets, cache menu URL for better performance.
-- Update Cookie consent: Add option to change background color, text color.
+- Optimize queries on menu & widgets, cache the menu URL for better performance.
+- Update Cookie consent: Add the option to change the background color, text color.
 - Update error pages, make it more beautiful.
 - Update UI contact form.
 - Improve permalink & custom CSS page.
