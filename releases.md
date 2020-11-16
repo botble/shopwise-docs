@@ -1,10 +1,32 @@
 # Release Notes
 
+- [Shopwise 1.1](#version_1_1)
 - [Shopwise 1.0.4](#version_1_0_4)
 - [Shopwise 1.0.3](#version_1_0_3)
 - [Shopwise 1.0.2](#version_1_0_2)
 - [Shopwise 1.0.1](#version_1_0_1)
 - [Shopwise 1.0](#version_1_0)
+
+<a name="version_1_1"></a>
+## Shopwise 1.4
+### Nov 16, 2020
+- Add "Quick Buy" button.
+- Add shortcode to display all brands and all products.
+- Display product attributes on cart, email.
+- Display error/success message in the cart page.
+- Fix checkout page when customer is logged already.
+- Fix shipping rules, order detail, store locators.
+- Fix missing order address when creating order from admin.
+- Fix theme translations: new keys in English doesn't show in other languages.
+- Fix IP in activity logs, allow IP v6.
+- Optimize queries on menu & widgets, cache menu URL for better performance.
+- Update Cookie consent: Add option to change background color, text color.
+- Update error pages, make it more beautiful.
+- Update UI contact form.
+- Improve permalink & custom CSS page.
+- Improve Analytics plugin, make it compatible with PHP 7.4.
+- Fix small bugs.
+- Refactor code.
 
 <a name="version_1_0_4"></a>
 ## Shopwise 1.0.4
