@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Shopwise 1.2](#version_1_2)
 - [Shopwise 1.1](#version_1_1)
 - [Shopwise 1.0.4](#version_1_0_4)
 - [Shopwise 1.0.3](#version_1_0_3)
@@ -7,8 +8,25 @@
 - [Shopwise 1.0.1](#version_1_0_1)
 - [Shopwise 1.0](#version_1_0)
 
+<a name="version_1_2"></a>
+## Shopwise 1.2
+### Dec 14, 2020
+- Add Up-sell products.
+- Add option to disable taxes.
+- Fix shipping fee in the checkout page.
+- Fix create a customer from admin panel.
+- Improve Cookie Consent plugin.
+- Improve responsive.
+- Update translations, added missing keys.
+- Improve DO Spaces integration.
+- Fix roles & permissions.
+- Update front theme UI.
+- Update seeders, easy to generate sample data using command db:seed.
+- Update setting page & system info.
+- Optimize page speed and performance.
+
 <a name="version_1_1"></a>
-## Shopwise 1.4
+## Shopwise 1.1
 ### Nov 16, 2020
 - Add the "Quick Buy" button.
 - Add a shortcode to display all brands and all products.
