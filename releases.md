@@ -11,7 +11,7 @@
 <a name="version_1_2"></a>
 ## Shopwise 1.2
 ### Dec 14, 2020
-- Add Up-sell products.
+- Add Cross-selling products.
 - Add option to disable taxes.
 - Fix shipping fee in the checkout page.
 - Fix create a customer from admin panel.
