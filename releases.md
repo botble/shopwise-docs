@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Shopwise 1.3](#version_1_3)
 - [Shopwise 1.2](#version_1_2)
 - [Shopwise 1.1](#version_1_1)
 - [Shopwise 1.0.4](#version_1_0_4)
@@ -7,6 +8,16 @@
 - [Shopwise 1.0.2](#version_1_0_2)
 - [Shopwise 1.0.1](#version_1_0_1)
 - [Shopwise 1.0](#version_1_0)
+
+<a name="version_1_3"></a>
+## Shopwise 1.3
+### Jan 12, 2021
+- Add Mollie payment gateway.
+- Add Flash sales https://prnt.sc/wlmt9m
+- Fix bug product quantity for incomplete orders.
+- Update translations.
+- Optimize queries to improve performance.
+- Update UI.
 
 <a name="version_1_2"></a>
 ## Shopwise 1.2
