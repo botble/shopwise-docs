@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Shopwise 1.5](#version_1_5)
 - [Shopwise 1.4](#version_1_4)
 - [Shopwise 1.3](#version_1_3)
 - [Shopwise 1.2](#version_1_2)
@@ -9,6 +10,19 @@
 - [Shopwise 1.0.2](#version_1_0_2)
 - [Shopwise 1.0.1](#version_1_0_1)
 - [Shopwise 1.0](#version_1_0)
+
+<a name="version_1_5"></a>
+## Shopwise 1.5
+### Feb 18, 2021
+- Add option to display product price including taxes.
+- Add option to set available countries. Check Admin -> Ecommerce -> Settings.
+- Update list countries. Add Kosovo.
+- Improve product reviews
+- Improve page SEO meta.
+- Fix calculate shipping fee.
+- Fix Custom CSS.
+- Fix bug Editor on PHP 8.
+- Refactor code & improve queries for better performance.
 
 <a name="version_1_4"></a>
 ## Shopwise 1.4
