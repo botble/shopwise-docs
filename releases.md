@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Shopwise 1.6](#version_1_6)
 - [Shopwise 1.5](#version_1_5)
 - [Shopwise 1.4](#version_1_4)
 - [Shopwise 1.3](#version_1_3)
@@ -10,6 +11,20 @@
 - [Shopwise 1.0.2](#version_1_0_2)
 - [Shopwise 1.0.1](#version_1_0_1)
 - [Shopwise 1.0](#version_1_0)
+
+<a name="version_1_6"></a>
+## Shopwise 1.6
+### Mar 01, 2021
+- Add SSLCommerz payment gateway.
+- New option to add custom JS in Admin -> Appearance -> Custom JS.
+- Change product SKU when changing product attribute.
+- Improve dashboard widgets.
+- Improve payment gateways.
+- Improve order tracking.
+- Fix permission issue on Contact plugin.
+- Fix invoice with Euro sign.
+- Fix flash messages.
+- Fix apply coupon in checkout recovery.
 
 <a name="version_1_5"></a>
 ## Shopwise 1.5
