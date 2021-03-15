@@ -12,6 +12,20 @@
 - [Shopwise 1.0.1](#version_1_0_1)
 - [Shopwise 1.0](#version_1_0)
 
+<a name="version_1_7"></a>
+## Shopwise 1.7
+### Mar 15, 2021
+- Improve SSLCommerz payment gateway.
+- Improve currency and display product's quantity in product listing.
+- Update dashboard widgets for eCommerce purpose.
+- Update email templates.
+- Fix cart image when product variation has no image.
+- Fix bug create order from the admin panel.
+- Fix bug Serialization of 'GdImage' is not allowed.
+- Fix Mollie payment when amount > 1000.
+- Fix permission issues.
+- Prevent process order many times.
+
 <a name="version_1_6"></a>
 ## Shopwise 1.6
 ### Mar 01, 2021
