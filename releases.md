@@ -1,5 +1,7 @@
 # Release Notes
 
+- [Shopwise 1.8](#version_1_8)
+- [Shopwise 1.7](#version_1_7)
 - [Shopwise 1.6](#version_1_6)
 - [Shopwise 1.5](#version_1_5)
 - [Shopwise 1.4](#version_1_4)
@@ -11,6 +13,18 @@
 - [Shopwise 1.0.2](#version_1_0_2)
 - [Shopwise 1.0.1](#version_1_0_1)
 - [Shopwise 1.0](#version_1_0)
+
+<a name="version_1_8"></a>
+## Shopwise 1.8
+### Apr 12, 2021
+- Fix search function on mobile.
+- Improve UI & allow modify email templates for verify account email and reset password.
+- Improve filter products, allow search by tags.
+- Add option to turn off automatic URL translation into Latin.
+- Add command to rename the theme to the new name.
+- Add option to force URL & schema.
+- Improve email templates.
+- Refactor code & optimize performance.
 
 <a name="version_1_7"></a>
 ## Shopwise 1.7
