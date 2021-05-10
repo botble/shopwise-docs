@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Shopwise 1.9](#version_1_9)
 - [Shopwise 1.8](#version_1_8)
 - [Shopwise 1.7](#version_1_7)
 - [Shopwise 1.6](#version_1_6)
@@ -13,6 +14,17 @@
 - [Shopwise 1.0.2](#version_1_0_2)
 - [Shopwise 1.0.1](#version_1_0_1)
 - [Shopwise 1.0](#version_1_0)
+
+<a name="version_1_9"></a>
+## Shopwise 1.9
+### May 10, 2021
+- Improve theme UI.
+- Fix change user's password.
+- Fix bug customer address when zip code empty
+- Remove unused services in Google Client API services to reduce app size.
+- Update theme options & handle errors when saving custom CSS.
+- Optimize queries.
+- Refactor code & improve performance.
 
 <a name="version_1_8"></a>
 ## Shopwise 1.8
