@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Shopwise 1.10](#version_1_10)
 - [Shopwise 1.9](#version_1_9)
 - [Shopwise 1.8](#version_1_8)
 - [Shopwise 1.7](#version_1_7)
@@ -14,6 +15,24 @@
 - [Shopwise 1.0.2](#version_1_0_2)
 - [Shopwise 1.0.1](#version_1_0_1)
 - [Shopwise 1.0](#version_1_0)
+
+<a name="version_1_10"></a>
+## Shopwise 1.10
+### June 14, 2021
+- Added RTL support for the admin panel.
+- Added bulk deletes for product variations & optimize create all variations.
+- Improve product swatches: disable not available options.
+- Display out of stock badge.
+- Fix payment gateways.
+- Fix product's quantity & stock status
+- Fix shipping when only 1 country available.
+- Fix discount.
+- Fix gallery shortcode.
+- Fix some errors on PHP 8.
+- Improve media, fix some errors with SVG.
+- Improve UI.
+- Optimize queries.
+- Refactor code & improve performance.
 
 <a name="version_1_9"></a>
 ## Shopwise 1.9
