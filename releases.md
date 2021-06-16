@@ -18,7 +18,7 @@
 
 <a name="version_1_10"></a>
 ## Shopwise 1.10
-### June 14, 2021
+### Jun 16, 2021
 - Added RTL support for the admin panel.
 - Added bulk deletes for product variations & optimize create all variations.
 - Improve product swatches: disable not available options.
