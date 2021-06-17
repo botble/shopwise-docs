@@ -15,7 +15,7 @@
 - [Upgrade to Shopwise 1.0.2](#version_1_0_2)
 - [Upgrade to Shopwise 1.0.1](#version_1_0_1)
 
-<a name="version_1_10></a>
+<a name="version_1_10"></a>
 ## Upgrade to version 1.10
 
 >  {warning} This version requires PHP >= 7.3, make sure your hosting support PHP 7.3 or higher.
@@ -37,7 +37,7 @@
   - Go to Admin -> Plugins: deactivate plugin `Ecommerce` and `Payment` then activate it again.
   - Go to Admin -> Translations -> Admin translations then click on `Import group` to update translations.
   
-<a name="version_1_9></a>
+<a name="version_1_9"></a>
 ## Upgrade to version 1.9
 
 >  {warning} This version requires PHP >= 7.3, make sure your hosting support PHP 7.3 or higher.
