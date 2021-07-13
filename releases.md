@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Shopwise 1.11](#version_1_11)
 - [Shopwise 1.10](#version_1_10)
 - [Shopwise 1.9](#version_1_9)
 - [Shopwise 1.8](#version_1_8)
@@ -15,6 +16,25 @@
 - [Shopwise 1.0.2](#version_1_0_2)
 - [Shopwise 1.0.1](#version_1_0_1)
 - [Shopwise 1.0](#version_1_0)
+
+<a name="version_1_11"></a>
+## Shopwise 1.11
+### Jul 13, 2021
+- Add an option to disable guest checkout.
+- Add minimum order amount setting.
+- Add Wasabi cloud storage support.
+- Disable auto-generate product SKU.
+- Fix product permalinks.
+- Fix order address.
+- Fix Razorpay payment gateway.
+- Improve checkout process.
+- Remove unused translations.
+- Allow to config the default placeholder image.
+- Improve media, translations & backup.
+- Improve UI.
+- Optimize queries.
+- Refactor code & improve performance.
+- Fix some bugs on PHP 8.
 
 <a name="version_1_10"></a>
 ## Shopwise 1.10
