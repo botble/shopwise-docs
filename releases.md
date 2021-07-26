@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Shopwise 1.12](#version_1_12)
 - [Shopwise 1.11](#version_1_11)
 - [Shopwise 1.10](#version_1_10)
 - [Shopwise 1.9](#version_1_9)
@@ -16,6 +17,20 @@
 - [Shopwise 1.0.2](#version_1_0_2)
 - [Shopwise 1.0.1](#version_1_0_1)
 - [Shopwise 1.0](#version_1_0)
+
+<a name="version_1_12"></a>
+## Shopwise 1.12
+### Jul 27, 2021
+- Update CKEditor and TinyMCE to the latest version (version 5).
+- Update media: Add a button to download media files from URL.
+- Able to add multiple admin emails in Admin -> Settings -> General.
+- Big change on blog categories & product categories. Hierarchical tree structured category https://prnt.sc/1g4ht0w.
+- Prevent clear cart after logging out.
+- Add PayPal & Stripe refund.
+- Improve currencies setting. Prevent error when deleting the default currency.
+- Improve email templates.
+- Ajax update cart.
+- Fix missing translations.
 
 <a name="version_1_11"></a>
 ## Shopwise 1.11
