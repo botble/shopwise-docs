@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Shopwise 1.13](#version_1_13)
 - [Shopwise 1.12](#version_1_12)
 - [Shopwise 1.11](#version_1_11)
 - [Shopwise 1.10](#version_1_10)
@@ -17,6 +18,30 @@
 - [Shopwise 1.0.2](#version_1_0_2)
 - [Shopwise 1.0.1](#version_1_0_1)
 - [Shopwise 1.0](#version_1_0)
+
+<a name="version_1_13"></a>
+## Shopwise 1.13
+### Aug 23, 2021
+- Fix social login.
+- Fix Contact plugin with the new editor.
+- Fix permission issues.
+- Fix currency settings.
+- Fix checkout recovery.
+- Fix display product variant image on checkout or order detail page.
+- Fix Mollie payment gateway (handle when customer cancel payment).
+- Fix Razorpay (correct amount with shipping fee).
+- Add Bulk Import Products from CSV/Excel.
+- Add search products by brand.
+- Add order delivery notes.
+- Add filter products by category in Admin -> Ecommerce -> Products.
+- Improve eCommerce reports page.
+- Improve discount & create order (make it translatable).
+- Improve shortcode. Make it easier to modify added shortcodes.
+- Improve editor & clean XSS.
+- Update email templates.
+- Update to the latest Laravel version 8.55.0
+- Improve core.
+- Optimize queries performance.
 
 <a name="version_1_12"></a>
 ## Shopwise 1.12
