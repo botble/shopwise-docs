@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Shopwise 1.14](#version_1_14)
 - [Shopwise 1.13](#version_1_13)
 - [Shopwise 1.12](#version_1_12)
 - [Shopwise 1.11](#version_1_11)
@@ -18,6 +19,34 @@
 - [Shopwise 1.0.2](#version_1_0_2)
 - [Shopwise 1.0.1](#version_1_0_1)
 - [Shopwise 1.0](#version_1_0)
+
+<a name="version_1_14"></a>
+## Shopwise 1.14
+### Sep 15, 2021
+- Add multi-language support.
+- Add flash sales.
+- Add product review images.
+- Add weekly abandoned carts email notifications
+- Add minimum order amount for COD.
+- Fix get products by category & breadcrumb.
+- Fix layout when disabling review.
+- Fix theme migration & issue when activating plugin Language.
+- Fix admin email.
+- Fix cache issue in media.
+- Clear data when deleting customer.
+- Improve product categories widgets.
+- Improve product categories dropdown (allow adding custom image for icon).
+- Improve invoice. Add setting to change font family for invoices.
+- Improve payment gateways.
+- Improve CKEditor.
+- Improve theme custom CSS/JS.
+- Improve allowed iframe types.
+- Handle TokenMismatchException.
+- Prevent error when missing watermark image.
+- Update to the latest Laravel version 8.60.0
+- Improve UI.
+- Improve core.
+- Optimize queries performance.
 
 <a name="version_1_13"></a>
 ## Shopwise 1.13
