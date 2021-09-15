@@ -24,7 +24,6 @@
 ## Shopwise 1.14
 ### Sep 15, 2021
 - Add multi-language support.
-- Add flash sales.
 - Add product review images.
 - Add weekly abandoned carts email notifications
 - Add minimum order amount for COD.
