@@ -23,7 +23,7 @@
 
 <a name="version_1_15"></a>
 ## Shopwise 1.15
-### Oct 15, 2021
+### Oct 19, 2021
 - Upgrade admin theme to Bootstrap 5.
 - Add system updater. 1-click update to the latest version.
 - Add BunnyCDN cloud storage.
