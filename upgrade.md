@@ -1,5 +1,6 @@
 # Upgrade Guide
 
+- [Upgrade to Shopwise 1.15](#version_1_15)
 - [Upgrade to Shopwise 1.14](#version_1_14)
 - [Upgrade to Shopwise 1.13](#version_1_13)
 - [Upgrade to Shopwise 1.12](#version_1_12)
@@ -18,6 +19,29 @@
 - [Upgrade to Shopwise 1.0.3](#version_1_0_3)
 - [Upgrade to Shopwise 1.0.2](#version_1_0_2)
 - [Upgrade to Shopwise 1.0.1](#version_1_0_1)
+
+<a name="version_1_15"></a>
+## Upgrade to version 1.15
+
+>  {warning} This version requires PHP >= 7.3, make sure your hosting support PHP 7.3 or higher.
+
+- For developers:
+  - Override folder `app`, `database`, `config`, `platform`, `public/themes`, `public/vendor` and `public/index.php` from the latest version.
+  - Update file `composer.json` and `composer.lock` from new source code.
+  - Delete folder `/vendor` then run `composer install` to upgrade vendor packages.
+  - Run `php artisan cms:publish:assets`.
+  - Run command `php artisan vendor:publish --tag=cms-lang --force` to update translations.
+  - Run `php artisan migrate` to update the database.
+  - Run `php artisan optimize:clear` to clear cache.
+
+- For non-developers:
+  - Override folder `app`, `bootstrap`, `database`, `config`, `platform`, `vendor`, `public/themes`, `public/vendor` and `public/index.php` from the latest version.
+  - Delete all files in `storage/framework/views` and `storage/framework/cache`.
+  - Go to Admin -> Plugins: deactivate plugin `Ecommerce` then activate it again.
+  - Go to Admin -> Translations -> Other translations then click on `Import group` to update translations.
+
+>  {warning} Go to Admin -> Plugins and activate plugin Language & Language Advanced if you need multi-language support.
+>  We have upgraded to the Bootstrap 5, it may have cache issue in browser, try to hard reload pages (Ctrl + F5 on Windows or CMD + Shift + R on MacOS).
 
 <a name="version_1_14"></a>
 ## Upgrade to version 1.14
