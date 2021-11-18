@@ -26,7 +26,7 @@
 ## Shopwise 1.16
 ### Nov 18, 2021
 - Added some events (order confirmed, order completed, payment completed, order cancelled…) in source code (for developers).
-- Added FAQ to product detail page
+- Added FAQ to product detail page.
 - Show confirmation box when delete user address.
 - Fix bullets list style in the editor.
 - Fix admin bar setting.
