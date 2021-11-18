@@ -1,5 +1,6 @@
 # Upgrade Guide
 
+- [Upgrade to Shopwise 1.16](#version_1_16)
 - [Upgrade to Shopwise 1.15](#version_1_15)
 - [Upgrade to Shopwise 1.14](#version_1_14)
 - [Upgrade to Shopwise 1.13](#version_1_13)
@@ -19,6 +20,17 @@
 - [Upgrade to Shopwise 1.0.3](#version_1_0_3)
 - [Upgrade to Shopwise 1.0.2](#version_1_0_2)
 - [Upgrade to Shopwise 1.0.1](#version_1_0_1)
+
+<a name="version_1_16"></a>
+## Upgrade to version 1.16
+
+- Option 1 (Auto update): Go to Admin -> System Administration -> System Updater and click "Download & install update".
+
+- Option 2 (Manual update):
+  - Override folder `app`, `database`, `config`, `platform`, `public/themes`, `public/vendor`, `bootstrap`, `vendor`, `composer.json`, `composer.lock` and `public/index.php` from the latest version.
+  - Go to Admin -> Platform Administration -> Cache management then clear all caches.
+  - Go to Admin -> Plugins: deactivate plugin `Ecommerce` then activate it again.
+  - Go to Admin -> Translations -> Other translations then click on `Import group` to update translations.
 
 <a name="version_1_15"></a>
 ## Upgrade to version 1.15
