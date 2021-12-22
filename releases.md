@@ -38,10 +38,11 @@
 - Added option to disable order invoice until order confirmed.
 - Added option to enable/disable Captcha in registration page.
 - Added VAT number & update invoice template.
+- Added option to disable product zoom images.
 - Improve search products.
 - Improve multi-language.
 - Improve editor & media.
-- 
+
 <a name="version_1_16"></a>
 ## Shopwise 1.16
 ### Nov 18, 2021
