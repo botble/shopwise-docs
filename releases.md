@@ -1,6 +1,6 @@
 # Release Notes
 
-- [Shopwise 1.18(#version_1_18)
+- [Shopwise 1.18](#version_1_18)
 - [Shopwise 1.17](#version_1_17)
 - [Shopwise 1.16](#version_1_16)
 - [Shopwise 1.15](#version_1_15)
