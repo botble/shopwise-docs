@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Shopwise 1.19](#version_1_19)
 - [Shopwise 1.18](#version_1_18)
 - [Shopwise 1.17](#version_1_17)
 - [Shopwise 1.16](#version_1_16)
@@ -23,6 +24,21 @@
 - [Shopwise 1.0.2](#version_1_0_2)
 - [Shopwise 1.0.1](#version_1_0_1)
 - [Shopwise 1.0](#version_1_0)
+
+<a name="version_1_19"></a>
+## Shopwise 1.19
+### Mar 22, 2022
+- Add missing language selection on mobile.
+- Fix order creation.
+- Fix order cancellation.
+- Fix product name on invoice & reorder.
+- Fix theme options for social links.
+- Fix language advanced plugin.
+- Fix plugin activation.
+- Fix menu contains &amp;
+- Improve editor.
+- Refactor code & improve queries.
+- Update Laravel framework to 8.83.5.
 
 <a name="version_1_18"></a>
 ## Shopwise 1.18
