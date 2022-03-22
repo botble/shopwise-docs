@@ -32,10 +32,12 @@
 - Fix order creation.
 - Fix order cancellation.
 - Fix product name on invoice & reorder.
-- Fix theme options for social links.
+- Fix shipping address.
 - Fix language advanced plugin.
 - Fix plugin activation.
+- Fix city form.
 - Fix menu contains &amp;
+- Improve plugin Location.
 - Improve editor.
 - Refactor code & improve queries.
 - Update Laravel framework to 8.83.5.
