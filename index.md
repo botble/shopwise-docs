@@ -1,14 +1,8 @@
 # Shopwise - Laravel Ecommerce System
 
-- [Introduction](#introduction)
-- [Demo](#demo)
-- [Why choose us](#why_choose_us)
-- [Botble Team](#botble_team)
-
-<a name="introduction"></a>
 ## Introduction
 
-Shopwise is a Laravel Ecommerce System using Laravel 8.x. It's a product built on Botble CMS.
+Shopwise is a Laravel Ecommerce System using Laravel 9.x. It's a product built on Botble CMS.
 
 Created: `2020/10/07`
 
@@ -18,8 +12,7 @@ Email: [contact@botble.com](mailto:contact@botble.com)
 
 Thank you for purchasing this product. If you have any questions that are beyond the scope of this help file, 
 please feel free to email via my user page contact form [here](https://codecanyon.net.net/user/botble) for quickly support. Thank you so much!
-		
-<a name="demo"></a>
+
 ## Demo
 
 Homepage: [http://shopwise.botble.com](http://shopwise.botble.com)
@@ -30,12 +23,10 @@ Username: `botble`
 
 Password: `159357`
 
-<a name="botble_team"></a>
 ## Botble Team
 
 Visit us at [https://botble.com](botble.com)
 
-<a name="why_choose_us"></a>
 ## Why choose us
 
 Coding Standard: All code follow coding standards PSR-2 and best practices. Validated by [Codeship](https://codeship.com)
@@ -56,8 +47,6 @@ A vast number of jQuery components are provided, which helps you save time.
 
 Admin template comes with color schemes to match your taste.
 		
-<a name="botble_team"></a>
 ## Botble Team
 
-Visit us at [https://botble.com](botble.com)
-
+Visit us at [https://botble.com](botble.com).
