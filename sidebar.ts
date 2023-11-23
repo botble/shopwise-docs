@@ -20,7 +20,6 @@ export default [
   {
     text: 'Usage',
     items: [
-      { text: 'Rename theme', link: '/shopwise/theme-rename' },
       { text: 'Custom CSS/JS', link: '/shopwise/usage-custom-css-js' },
       { text: 'Translation', link: '/shopwise/usage-translation' },
       { text: 'Multi-language', link: '/shopwise/usage-multi-language' },
@@ -29,11 +28,16 @@ export default [
       { text: 'Media - Setup BunnyCDN', link: '/shopwise/usage-media-bunnycdn' },
       { text: 'Media - Setup Wasabi', link: '/shopwise/usage-media-wasabi' },
       { text: 'Setup email', link: '/shopwise/usage-email' },
-
       { text: 'Currencies', link: '/shopwise/usage-currencies' },
       { text: 'Setup social login', link: '/shopwise/usage-social-login' },
       { text: 'Location', link: '/shopwise/usage-location' },
       { text: 'Invoice template', link: '/shopwise/invoice-template' },
     ],
   },
+  {
+    text: 'Development',
+    items: [
+      { text: 'Rename theme', link: '/shopwise/theme-rename' },
+    ]
+  }
 ] satisfies DefaultTheme.SidebarItem[];
