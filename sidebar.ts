@@ -32,6 +32,7 @@ export default [
       { text: 'Setup social login', link: '/shopwise/usage-social-login' },
       { text: 'Location', link: '/shopwise/usage-location' },
       { text: 'Invoice template', link: '/shopwise/invoice-template' },
+      { text: 'Setup cronjob', link: '/shopwise/cronjob' },
     ],
   },
   {
