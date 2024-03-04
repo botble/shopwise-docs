@@ -23,10 +23,6 @@ Username: `botble`
 
 Password: `159357`
 
-## Botble Team
-
-Visit us at [botble.com](https://botble.com)
-
 ## Why choose us
 
 Coding Standard: All code follow coding standards PSR-2 and best practices. Validated by [Codeship](https://codeship.com)
