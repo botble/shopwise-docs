@@ -23,10 +23,6 @@ Username: `botble`
 
 Password: `159357`
 
-## Botble Team
-
-Visit us at [https://botble.com](botble.com)
-
 ## Why choose us
 
 Coding Standard: All code follow coding standards PSR-2 and best practices. Validated by [Codeship](https://codeship.com)
@@ -49,4 +45,4 @@ Admin template comes with color schemes to match your taste.
 		
 ## Botble Team
 
-Visit us at [https://botble.com](botble.com).
+Visit us at [botble.com](https://botble.com).
