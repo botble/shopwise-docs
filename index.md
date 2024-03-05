@@ -19,9 +19,9 @@ Homepage: [http://shopwise.botble.com](http://shopwise.botble.com)
 
 Admin Area: [http://shopwise.botble.com/admin](http://shopwise.botble.com/admin)
 
-Username: `botble`
+Username: `admin`
 
-Password: `159357`
+Password: `12345678`
 
 ## Why choose us
 
